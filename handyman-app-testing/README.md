@@ -12,7 +12,6 @@ Artifacts include:
 - Functional Decomposition
 - Requirement Traceability Matrix (RTM)
 - Permission Table
-- Test Report
 - Test Summary
 
 Documentation available in the project folder.
