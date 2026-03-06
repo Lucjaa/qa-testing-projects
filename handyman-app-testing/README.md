@@ -2,6 +2,21 @@
 
 Testing documentation created for the Huntd application.
 
+### Huntd Application Testing
+
+Test documentation prepared for the Huntd application.
+
+Artifacts include:
+
+- Test Plan
+- Functional Decomposition
+- Requirement Traceability Matrix (RTM)
+- Permission Table
+- Test Report
+- Test Summary
+
+Documentation available in the project folder.
+
 ## Test Artifacts
 
 ### Test Plan
